@@ -24,7 +24,7 @@ D a-textio.ads		20190518041256 aef4d56d ada.text_io%s
 D a-unccon.ads		20190518041255 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20190518041254 5ab55268 interfaces%s
 D i-cstrea.ads		20190518041254 e53d8b8e interfaces.c_streams%s
-D main.adb		20240122184013 dfe8af38 main%b
+D main.adb		20240122185629 dfe8af38 main%b
 D system.ads		20190518041255 085b6ffb system%s
 D s-crtl.ads		20190518041254 0ebbdb71 system.crtl%s
 D s-exctab.ads		20190518041255 54135002 system.exception_table%s

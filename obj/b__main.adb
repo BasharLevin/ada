@@ -210,9 +210,9 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   /Users/b/Desktop/p_3/Progsrpåkteori/obj/main.o
-   --   -L/Users/b/Desktop/p_3/Progsrpåkteori/obj/
-   --   -L/Users/b/Desktop/p_3/Progsrpåkteori/obj/
+   --   /Users/b/Desktop/p_3/Progsrpåkteori/ada/obj/main.o
+   --   -L/Users/b/Desktop/p_3/Progsrpåkteori/ada/obj/
+   --   -L/Users/b/Desktop/p_3/Progsrpåkteori/ada/obj/
    --   -L/users/b/opt/gnat/2019/lib/gcc/x86_64-apple-darwin17.7.0/8.3.1/adalib/
    --   -static
    --   -lgnat
