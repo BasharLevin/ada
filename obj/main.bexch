@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/Users/b/Desktop/p_3/Progsrpåkteori/default.gpr
+20240122155735
+[BOUND OBJECT FILES]
+/Users/b/Desktop/p_3/Progsrpåkteori/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/Users/b/Desktop/p_3/Progsrpåkteori/obj/
+-L/Users/b/Desktop/p_3/Progsrpåkteori/obj/
+-L/users/b/opt/gnat/2019/lib/gcc/x86_64-apple-darwin17.7.0/8.3.1/adalib/
+-static
+/users/b/opt/gnat/2019/lib/gcc/x86_64-apple-darwin17.7.0/8.3.1/adalib/libgnat.a
